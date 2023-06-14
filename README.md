@@ -1,3 +1,13 @@
+# Top NetFLix Series :
+## Image:
+![2023-06-14 11_54_21-Greenshot](https://github.com/Deepakydv01233/Top-NetFlix-Series-App/assets/108972310/d08b738e-13c6-41b6-ab84-e26ff19ff2d3)
+
+## video:
+https://github.com/Deepakydv01233/Top-NetFlix-Series-App/assets/108972310/c9b5f105-3cd9-4aa4-84db-b238477eda9a
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
